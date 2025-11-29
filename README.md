@@ -6,15 +6,15 @@ O projeto ilustra a migração de um ambiente de desenvolvimento local para um c
 
 ## 📑 Índice
 
-  * [Sobre o Projeto](https://www.google.com/search?q=%23sobre-o-projeto)
-  * [Tecnologias Utilizadas](https://www.google.com/search?q=%23tecnologias-utilizadas)
-  * [Configuração do Ambiente](https://www.google.com/search?q=%23configura%C3%A7%C3%A3o-do-ambiente)
-  * [Passo 1: Banco de Dados Customizado](https://www.google.com/search?q=%23passo-1-banco-de-dados-customizado-parte-3---q1)
-  * [Passo 2: Migração para Kubernetes](https://www.google.com/search?q=%23passo-2-migra%C3%A7%C3%A3o-para-kubernetes-parte-3---q2)
-  * [Passo 3: Aplicação Spring Boot](https://www.google.com/search?q=%23passo-3-aplica%C3%A7%C3%A3o-spring-boot-parte-4---q1)
-  * [Executando a Aplicação](https://www.google.com/search?q=%23executando-a-aplica%C3%A7%C3%A3o)
-  * [Endpoints da API](https://www.google.com/search?q=%23endpoints-da-api)
-  * [Exemplos de Requisição](https://www.google.com/search?q=%23exemplos-de-requisi%C3%A7%C3%A3o)
+* [Sobre o Projeto](#-sobre-o-projeto)
+* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [Configuração do Ambiente](#-configuração-do-ambiente)
+* [Passo 1: Banco de Dados Customizado](#passo-1-banco-de-dados-customizado-parte-3---q1)
+* [Passo 2: Migração para Kubernetes](#passo-2-migração-para-kubernetes-parte-3---q2)
+* [Passo 3: Aplicação Spring Boot](#passo-3-aplicação-spring-boot-parte-4---q1)
+* [Executando a Aplicação](#-executando-a-aplicação)
+* [Endpoints da API](#-endpoints-da-api)
+* [Exemplos de Requisição](#-requisições-e-respostas-da-api)
 
 -----
 
